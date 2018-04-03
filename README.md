@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 To RUN this backed pat of the application simply run src/main/java/App.java as a java application
 
-To be run along side the improved-qa-accounts web app
+To be run along side the [improved-qa-accounts](https://github.com/abiswas12/improved-qa-accounts) web app.
 
 ## Error
 
