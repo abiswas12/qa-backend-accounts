@@ -10,4 +10,4 @@ To be run along side the improved-qa-accounts web app
 
 ## Error
 
-Is inputting data into the H2 server however, is not showing the accounts in the lists view.
+Is inputting data into the H2 server however, is not showing the accounts in the lists view. (account.service.ts:18)
