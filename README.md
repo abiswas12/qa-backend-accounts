@@ -1,6 +1,6 @@
 # QaExerciseAngular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
+This project was generated with [Spring Boot Initializer](https://start.spring.io/) version 1.6.5.
 
 ## Running Exercise Accounts Application
 
